@@ -1,11 +1,11 @@
 {
-    "name": "Default",
-    "description": "Layout padrão e responsivo do Painel Web",
+    "name": "New",
+    "description": "Layout padrão com logotipo e playlist do youtube",
     "authors": [
         {
-            "name": "Rogério Alencar Lino Filho", 
-            "email": "rogeriolino@gmail.com",
-            "homepage": "http://rogeriolino.com"
+            "name": "Paulo Humberto Nascimento Valente", 
+            "email": "paulohnvalente@gmail.com",
+            "homepage": "https://1bertovalente.github.io/curriculo/"
         }
     ]
 }
