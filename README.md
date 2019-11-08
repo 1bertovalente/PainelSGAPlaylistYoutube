@@ -5,6 +5,8 @@
 
 
 <h4>Para inserir o tema em seu painel</h4>
- × Navegue até o diretório do seu painel (No meu caso está em: /var/www/html/painel)<br>
- × Localize o diretório themes (No meu caso está em: /var/www/html/painel/themes) <br>
- × Clone ou faça o download da pasta PainelNew (https://github.com/1bertovalente/fametrosga.git)
+ × Clone ou faça o download (https://github.com/1bertovalente/TemaSGAPlaylistYoutube) para obter o tema<br>
+ × Descompacte e mova até o diretório do seu painel/themes (No meu caso está em: /var/www/html/painel/themes)<br>
+ × Acesse o painel pelo navegador de sua escolha e coloque o nome do tema (No meu caso: TemaSGAPlaylistYoutube).
+ 
+
