@@ -17,7 +17,7 @@
   <img src="./img/codImg.png"/>
   
   <h2>Para alterar a playlist:</h2>
- × Abra o arquivo index.html (No meu caso está localizado em: /var/www/html/painel/themes), na vigésima quinta linha informe o novo ID da da playlist que pode está sendo localizada no youtube
+ × Abra o arquivo index.html (No meu caso está localizado em: /var/www/html/painel/themes), na vigésima quinta linha informe o novo ID da  playlist que pode está sendo localizada no youtube
   <img src="./img/codPlay.png"/>
  
  
